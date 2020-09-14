@@ -6,8 +6,8 @@ import math
 
 
 def average(a: float, b: float, c: float) -> float:
-    return 0.0
-moyenne = (5+4+6)/3
+    return (a+b+c)/3
+
 
 print (moyenne)
 
