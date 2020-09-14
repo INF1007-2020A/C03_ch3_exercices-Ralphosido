@@ -6,7 +6,12 @@ import math
 
 
 def average(a: float, b: float, c: float) -> float:
-    return (a+b+c)/3
+    z=(a+b+c)/3
+    print(z)
+
+
+average(1,5,7)
+
 
 
 
